@@ -1,0 +1,185 @@
+{
+ "Header": {
+  "title": "Empowering Businesses with Smart Software",
+  "paragraph": "We design and develop innovative enterprise software solutions that streamline operations, enhance productivity, and drive digital transformation for companies of all sizes."
+},
+  "About": {
+  "paragraph": "We are a forward-thinking startup specializing in enterprise software development. Our mission is to deliver powerful, scalable, and user-centric solutions that optimize business processes and drive digital transformation. With a focus on innovation and performance, we empower organizations to streamline operations and achieve sustainable growth through smart technology.",
+  "Why": [
+    "Expertise in enterprise-grade software",
+    "Tailored solutions for business needs",
+    "Agile and scalable development process",
+    "Focus on performance and usability"
+  ],
+  "Why2": [
+    "Seamless integration with existing systems",
+    "Commitment to innovation and quality",
+    "Strong client collaboration and support",
+    "Continuous improvement and adaptability"
+  ]
+},
+  "Gallery": [
+  {
+    "title": "Enterprise Resource Planning System",
+    "largeImage": "img/portfolio/01-large.jpg",
+    "smallImage": "img/portfolio/01-small.jpg"
+  },
+  {
+    "title": "HR Management Platform",
+    "largeImage": "img/portfolio/02-large.jpg",
+    "smallImage": "img/portfolio/02-small.jpg"
+  },
+  {
+    "title": "Cloud-based Document Sharing",
+    "largeImage": "img/portfolio/03-large.jpg",
+    "smallImage": "img/portfolio/03-small.jpg"
+  },
+  {
+    "title": "Client Relationship Dashboard",
+    "largeImage": "img/portfolio/04-large.jpg",
+    "smallImage": "img/portfolio/04-small.jpg"
+  },
+  {
+    "title": "Real-time Analytics System",
+    "largeImage": "img/portfolio/05-large.jpg",
+    "smallImage": "img/portfolio/05-small.jpg"
+  },
+  {
+    "title": "Inventory Tracking Application",
+    "largeImage": "img/portfolio/06-large.jpg",
+    "smallImage": "img/portfolio/06-small.jpg"
+  },
+  {
+    "title": "AI-powered Resume Parser",
+    "largeImage": "img/portfolio/07-large.jpg",
+    "smallImage": "img/portfolio/07-small.jpg"
+  },
+  {
+    "title": "E-learning Management Tool",
+    "largeImage": "img/portfolio/08-large.jpg",
+    "smallImage": "img/portfolio/08-small.jpg"
+  },
+  {
+    "title": "Multi-language Client Portal",
+    "largeImage": "img/portfolio/09-large.jpg",
+    "smallImage": "img/portfolio/09-small.jpg"
+  }
+],
+ "Services": [
+  {
+    "icon": "fa fa-code",
+    "name": "Custom Software Development",
+    "text": "We build tailored enterprise applications designed to meet your specific operational needs and support your business growth."
+  },
+  {
+    "icon": "fa fa-cogs",
+    "name": "System Integration",
+    "text": "Our experts ensure seamless integration of our software with your existing tools, enabling unified workflows and data synchronization."
+  },
+  {
+    "icon": "fa fa-cloud-download",
+    "name": "Cloud-Based Solutions",
+    "text": "We deliver scalable, secure, and reliable cloud platforms to improve accessibility, performance, and maintenance."
+  },
+  {
+    "icon": "fa fa-language",
+    "name": "Multilingual Support",
+    "text": "Our solutions support multiple languages, helping global teams work efficiently across regions and cultures."
+  },
+  {
+    "icon": "fa fa-rocket",
+    "name": "Digital Transformation",
+    "text": "Accelerate your company’s digital journey with cutting-edge tools designed to modernize your business processes."
+  },
+  {
+    "icon": "fa fa-pie-chart",
+    "name": "Analytics & Reporting",
+    "text": "Gain actionable insights through advanced data visualization and performance tracking tailored to your KPIs."
+  }
+],
+  "Testimonials": [
+    {
+      "img": "img/testimonials/01.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "John Doe"
+    },
+    {
+      "img": "img/testimonials/02.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "Johnathan Doe"
+    },
+    {
+      "img": "img/testimonials/03.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "John Doe"
+    },
+    {
+      "img": "img/testimonials/04.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "Johnathan Doe"
+    },
+    {
+      "img": "img/testimonials/05.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "John Doe"
+    },
+    {
+      "img": "img/testimonials/06.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "Johnathan Doe"
+    }
+  ],
+  "Team": [
+    {
+      "img": "img/team/01.jpg",
+      "name": "John Doe",
+      "job": "Director"
+    },
+    {
+      "img": "img/team/02.jpg",
+      "name": "Mike Doe",
+      "job": "Senior Designer"
+    },
+    {
+      "img": "img/team/03.jpg",
+      "name": "Jane Doe",
+      "job": "Senior Designer"
+    },
+    {
+      "img": "img/team/04.jpg",
+      "name": "Karen Doe",
+      "job": "Project Manager"
+    }
+  ],
+  "Contact": {
+    "address": "4321 California St, San Francisco, CA 12345 ",
+    "phone": "+1 123 456 1234",
+    "email": "info@company.com",
+    "facebook": "fb.com",
+    "twitter": "twitter.com",
+    "youtube": "youtube.com"
+  },
+ "Features": [
+  {
+    "icon": "fa fa-comments-o",
+    "title": "Client-Centered Approach",
+    "text": "We work closely with our clients to understand their business needs and deliver customized enterprise software that truly makes an impact."
+  },
+  {
+    "icon": "fa fa-bullhorn",
+    "title": "Powerful Communication Tools",
+    "text": "Our solutions include built-in communication features that improve collaboration across teams and departments, wherever they are."
+  },
+  {
+    "icon": "fa fa-group",
+    "title": "Collaborative Workflows",
+    "text": "Empower your teams with intuitive and efficient workflows designed to streamline operations and enhance productivity."
+  },
+  {
+    "icon": "fa fa-magic",
+    "title": "Smart Automation",
+    "text": "Leverage cutting-edge automation to reduce manual tasks, minimize errors, and focus on what really matters — growing your business."
+  }
+]
+
+}
